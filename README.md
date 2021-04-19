@@ -3,6 +3,7 @@
 - eigene Implementierung des **Mann-Kendall Tests**
 - eigene Implementierung der **Berechnung der Steigung einer Zeitreihe nach Theil und Sen**
 - funktioniert *out of the box* nicht als eigenständiges Skript, benötigte Pakete werden in "parent scripts" geladen.
+- Aus diesem Skript ist das Paket [simpleRank](https://www.github.com/Florian-Katerndahl/simpleRank) entstanden. Das macht nicht mehr als das Skript, nur anders strukturiert.
 ### `custom_functions.R`
 - Helferfunktionen für Vorprozessierung u. a.
 - funktioniert *out of the box* nicht als eigenständiges Skript, benötigte Pakete werden in "parent scripts" geladen.
